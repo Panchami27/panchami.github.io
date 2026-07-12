@@ -23,7 +23,7 @@ repository               : "panchami27/panchami.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "panchami_US.jpg"
   name             : "Panchami Patel"
   pronouns         : # example: "she/her"  
   bio              : "Chemical Engineer | Rheology | 3D Food Printing | Hydrogels | Teaching presentations and codes"
