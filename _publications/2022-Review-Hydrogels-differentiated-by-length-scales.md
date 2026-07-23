@@ -11,7 +11,7 @@ header:
 paperurl: 'https://doi.org/10.1016/j.eurpolymj.2021.110935'
 citation: 'Patel, Panchami and Thareja, Prachi, "Hydrogels differentiated by length scales: a review of biopolymer-based hydrogel preparation methods, characterization techniques, and targeted applications", European Polymer Journal 2022, 163, 110935'
 ---
-<img src="/images/Figure-papers/printing3Dfigure.jpg"
+<img src="/images/Figure-papers/reviewpaperfigure.jpg"
      alt="3D printing of κ-carrageenan gels"
      width="700">
      
