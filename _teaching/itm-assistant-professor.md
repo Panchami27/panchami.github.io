@@ -1,5 +1,5 @@
 ---
-title: "Assistant Professor in the Department of Chemocal Engineering"
+title: "Assistant Professor in the Department of Chemical Engineering"
 collection: teaching
 type: "Teaching" 
 permalink: /teaching/itm-assistant-professor
@@ -29,9 +29,3 @@ As an Assistant Professor in the Department of Chemical Engineering, I taught un
 - Training and Placement coordinator
 - Board of Studies documentation
 - First-year orientation and bridge course organization
-
-## Course materials
-
-- [Mass Transfer lecture notes](link)
-- [Heat Transfer lecture notes](link)
-- [Fluid Flow Operations lecture notes](link)
