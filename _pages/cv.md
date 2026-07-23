@@ -20,31 +20,25 @@ Education
 
 Work experience
 ======
-* March 2025 - April 2026: Assistant Professor in the Department of Chemical Engineering
-  * ITM SLS Baroda University
+* March 2025 - April 2026: Assistant Professor in the Department of Chemical Engineering, ITM SLS Baroda University
   * Subjects taught: Mass Transfer, Heat Transfer, Fluid Flow Operations, Computational Methods, Process Equipment Design, Thermodynamics, Chemical Technology, Wastewater Treatment, Sugar & Food Technology, Applied Chemistry.
   * Responsibilities: Mentor Coordinator, Class coordinator (Semesters II and VI), Training and Placement coordinator, BOS documentation, 1st year orientation and bridge course organizer, ABL activity coordinator.
   * Projects guided: Food waste-based film for food packaging, biodegradable hydrogel beads for multi-dye removal and recovery.
 
-* Feb - May 2024: Assistant Professor in the Department of Petrochemical Engineering
-  * Ganpat University, Mehsana
+* Feb - May 2024: Assistant Professor in the Department of Petrochemical Engineering, Ganpat University, Mehsana
   * Subject taught: Chemical Reaction Engineering and Flow Mechanics.
 
-* July 2018 - Nov 2023: Teaching Assistant
-  * IIT Gandhinagar
+* July 2018 - Nov 2023: Teaching Assistant, IIT Gandhinagar
   * Duties included: Thermodynamics class, Colloidal Domain class, Heat Transfer lab, Mass Transfer and Control lab, Fluid Flow lab. 
 
-* May 2017 - June 2018: Project Trainee
-  * Reliance Industries Limited Vadodara
+* May 2017 - June 2018: Project Trainee, Reliance Industries Limited Vadodara
   * Duties included: Research pilot plant, worked on the use of additives to reduce coking in Naphtha cracking process for production of ethylene.
 
- * April - July 2016: Research Intern R&D, educator, and product developer for experimental methodology
-  * Respire Experimental Learning, Ahmedabad
+ * April - July 2016: Research Intern R&D, educator, and product developer for experimental methodology, Respire Experimental Learning
   * Duties included: develop and teach hands-on science experiment kits to school-going children
 
-* July 2014 - Sept 2015: Graduate Engineer Trainee and promoted to Manager
-  * Reliance Industries Limited Jamnagar
-  * Duties included: Experience in commissioning of Gasifier plant (J3), developing SOPs and developing proving plans for various equipment, Training at Coker plant (DTA).
+* July 2014 - Sept 2015: Graduate Engineer Trainee and promoted to Manager, Reliance Industries Limited Jamnagar
+  * Duties included: Experience in commissioning of Gasifier plant (J3), developing SOPs and developing proving plans for various equipment, Training at Coker plant (DTA)
   
 Publications
 ======
