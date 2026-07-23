@@ -34,7 +34,7 @@ Work experience
 * May 2017 - June 2018: Project Trainee, Reliance Industries Limited Vadodara
   * Duties included: Research pilot plant, worked on the use of additives to reduce coking in Naphtha cracking process for production of ethylene.
 
- * April - July 2016: Research Intern R&D, educator, and product developer for experimental methodology, Respire Experimental Learning
+* April - July 2016: Research Intern R&D, educator, and product developer for experimental methodology, Respire Experimental Learning
   * Duties included: develop and teach hands-on science experiment kits to school-going children
 
 * July 2014 - Sept 2015: Graduate Engineer Trainee and promoted to Manager, Reliance Industries Limited Jamnagar
@@ -90,7 +90,7 @@ Skills
   * Simulator Training on process dynamics and control by Sim Infosystems, PDPU
   * Online Courses: Python Essentials 1 (OpenEDG with Python Institute), MATLAB Onramp, Statistics Onramp (MathWorks)
 
-Service and leadership
+Academic Service and leadership
 ======
 * **Training and Placement Coordinator**
   * Facilitated industry engagement, student training programs, and career development activities.
