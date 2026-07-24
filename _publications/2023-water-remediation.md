@@ -7,7 +7,7 @@ excerpt: 'Hydrogel beads are emerging as alternate adsorbent material for the ba
 date: 2023-01-26
 venue: 'Journal of Vinyl and Additive Technology'
 header:
-  teaser: /images/Figure-papers/tio2paper.jpg
+  teaser: /images/Figure-papers/tio2paper.png
 paperurl: 'https://doi.org/10.1002/vnl.21980'
 citation: 'Patel, Panchami, Gangwar, Pratibha, Thareja, Prachi, "Preparation and rheology of Titanium dioxide nanoparticles loaded κ-carrageenan hydrogel beads strengthened by mixed salts for multipollutant water remediation", Journal of Vinyl and Additive Technology 2023, 29 (4), 773-794'
 ---
